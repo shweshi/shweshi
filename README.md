@@ -1,6 +1,6 @@
 ### Hi there👋 I'm Shashi
 
-I am an experienced Software Engineer with a passion for creating value in the form of functional and reliable products. I believe and follow the [developer manifesto](https://www.git-tower.com/blog/developer-manifesto/)
+I am an experienced Software Engineer with a passion for creating value in the form of functional and reliable products.
 
 I am interested in distributed cloud systems, microservice architecture, parallelism, concurrency, database architecture and internals, open source software, clean code, algorithms and data structures.
 
