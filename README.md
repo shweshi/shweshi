@@ -10,7 +10,8 @@ I am interested in distributed cloud systems, microservice architecture, paralle
 - Clean Architecture
 - Microservice Patterns
 - The Art of Unix Programming
-You can check of collection of books from [here](https://github.com/shweshi/books)
+
+You can check my collection of books from [here](https://github.com/shweshi/books)
 
 #### Elsewhere
 - Portfolio: https://shashi.dev
