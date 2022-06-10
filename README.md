@@ -1,7 +1,18 @@
 ### Hi there 👋
 
-I'm a Software Engineer. I am interested in distributed cloud systems, microservice architecture, parallelism, concurrency, database architecture and internals, open source software, programming, algorithms and data structures.
+### I'm Shashi
 
+I am an experienced Software Engineer with a passion for creating value in the form of functional and reliable products.
+I am interested in distributed cloud systems, microservice architecture, parallelism, concurrency, database architecture and internals, open source software, clean code, algorithms and data structures.
+
+#### My favourite books
+- Clean Code
+- Clean Architecture
+- Microservice Patterns
+- The Art of Unix Programming
+You can check of collection of books from [here](https://github.com/shweshi/books)
+
+#### Elsewhere
 - Portfolio: https://shashi.dev
 - Blogging at: https://blog.shashi.dev
 - Tweeting at: https://twitter.com/imSPG
