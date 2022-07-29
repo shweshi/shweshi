@@ -1,8 +1,8 @@
 # Hi there👋 I'm Shashi
 
-### I am an experienced Software Engineer with a passion for creating value in the form of functional and reliable products.
+### I am an experienced Software Engineer with a passion for creating value in the form of functional, reliable and sustainable products.
 
-I am interested in distributed cloud systems, microservice architecture, parallelism, concurrency, database architecture and internals, open source software, clean code, algorithms and data structures.
+I am interested in service mesh, microservice architecture, parallelism, concurrency, database architecture and internals, open source software, clean code, algorithms and data structures.
 
 See my [personal manifesto](https://github.com/shweshi/manifesto/blob/main/README.md)
 
