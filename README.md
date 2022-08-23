@@ -4,22 +4,43 @@
 
 I am interested in service mesh, microservice architecture, parallelism, concurrency, database architecture and internals, open source software, clean code, algorithms and data structures.
 
-See my [personal manifesto](https://github.com/shweshi/manifesto/blob/main/README.md)
-
-#### Elsewhere
-- Portfolio: https://shashi.dev
-- Blogging at: https://blog.shashi.dev
-- Tweeting at: https://twitter.com/imSPG
-- LinkedIn: https://www.linkedin.com/in/shashiprakashgautam/
-- Email: contactmespg@gmail.com
+#### Currently
+- Building Service Mesh solution using Consul.
+- Learning IaC, DevOps and Cloud Engineering.
+- Writing bunch of Terraform, Python and Node.js code. 
 
 #### My Stats
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shweshi&layout=compact&hide=html)\
-![stats](https://github-readme-stats.vercel.app/api?username=shweshi&show_icons=true)
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shweshi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweshi&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html"/>
+</p>
+
+#### Connect With Me
+<p left="center">
+<a href="https://twitter.com/imSPG">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/shashiprakashgautam/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://medium.com/@shweshi">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="mailto:contactmespg@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+<a href="https://blog.shashi.dev">
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height=25>
+</a>
+</p>
+
+#### Misc
+- [Resume](https://shashi.dev/resume.pdf)
+- [Portfolio](https://shashi.dev)
+- [Personal Manifesto](https://github.com/shweshi/manifesto/blob/main/README.md)
+- [Certificates](https://github.com/shweshi/certificates)
 
 #### Support
-I build open source projects in my free time. If you have used or liked my work, please consider buying me a coffee.\
+I build open source projects in my free time. If you have used or liked my work, please consider buying me a coffee.
 
-<a href="https://www.buymeacoffee.com/shashi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshweshi%2Fshweshi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://www.buymeacoffee.com/shashi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="140"></a>
