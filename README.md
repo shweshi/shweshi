@@ -2,18 +2,18 @@
 
 ### I am an experienced Software Engineer with a passion for creating value in the form of functional, reliable and sustainable products.
 
-I am interested in service mesh, microservice architecture, parallelism, concurrency, database architecture and internals, open source software, clean code, algorithms and data structures.
+I am interested in service mesh, microservice architecture, open source software, clean code, algorithms and data structures.
 
 #### Currently
 - Building Service Mesh solution using Consul.
 - Learning IaC, DevOps and Cloud Engineering.
 - Writing bunch of Terraform, Python and Node.js code. 
 
-#### My Stats
+<!-- #### My Stats
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shweshi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweshi&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html"/>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shweshi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweshi&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html"/>
+</p> -->
 
 #### Connect With Me
 <p left="center">
