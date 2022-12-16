@@ -9,11 +9,11 @@ I am interested in service mesh, microservice architecture, open source software
 - Learning IaC, DevOps and Cloud Engineering.
 - Writing bunch of Terraform, Python and Node.js code. 
 
-<!-- #### My Stats
+#### My Stats
 <p float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shweshi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweshi&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html"/>
-</p> -->
+</p>
 
 #### Connect With Me
 <p left="center">
