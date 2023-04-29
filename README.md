@@ -35,7 +35,6 @@ I am interested in service mesh, microservice architecture, open source software
 </p>
 
 #### Misc
-- [Resume](https://shashi.dev/resume.pdf)
 - [Portfolio](https://shashi.dev)
 - [Personal Manifesto](https://github.com/shweshi/manifesto/blob/main/README.md)
 - [Certificates](https://github.com/shweshi/certificates)
