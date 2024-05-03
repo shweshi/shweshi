@@ -5,7 +5,7 @@
 I am interested in service mesh, microservice architecture, open source software, clean code, algorithms and data structures.
 
 #### Currently
-- Building Service Mesh solution using Consul.
+- Building Service Mesh solution.
 - Learning IaC, DevOps and Cloud Engineering.
 - Writing bunch of Terraform, Python and Node.js code. 
 
