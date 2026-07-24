@@ -35,10 +35,10 @@ Currently leading the engineering efforts of an enterprise **Istio Service Mesh*
 
 ### Platform
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Observability
@@ -48,26 +48,11 @@ Currently leading the engineering efforts of an enterprise **Istio Service Mesh*
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge)
 
-### Languages
+### Languages & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## I Write About
-
-- Kubernetes
-- Istio Service Mesh
-- Platform Engineering
-- Distributed Systems
-- AI-assisted Software Engineering
-- Developer Productivity
-
-📖 **Latest Articles**
-
-➡️ https://blog.shashi.dev
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
