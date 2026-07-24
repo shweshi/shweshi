@@ -10,23 +10,22 @@ Currently leading the engineering efforts of an enterprise **Istio Service Mesh*
 
 ## 🚀 What I Do
 
-- ☸️ Platform Engineering
-- 🌐 Kubernetes & Istio Service Mesh
-- ⚙️ Distributed Systems
-- 🔀 Traffic Management
-- 🔐 Service-to-Service communication with Zero Trust Security
-- 📊 Observability
-- ☁️ Cloud Infrastructure
-- 🛠️ Developer Experience
+- Platform Engineering
+- Kubernetes & Istio Service Mesh
+- Distributed Systems
+- Traffic Management
+- Service-to-Service communication with Zero Trust Security
+- Observability
+- Cloud Infrastructure
+- Developer Experience
 
 ---
 
 ## 💡 Current Focus
 
 - Building production-grade Istio Service Mesh platforms
-- Multi-cluster, Multi-primary & Multi-network Kubernetes
 - Traffic Management & Progressive Delivery
-- Platform Observability
+- Platform & Microservices Observability
 - AI-assisted Infrastructure Engineering
 - Open Source
 
@@ -39,9 +38,6 @@ Currently leading the engineering efforts of an enterprise **Istio Service Mesh*
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-### Cloud
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -69,7 +65,7 @@ Currently leading the engineering efforts of an enterprise **Istio Service Mesh*
 
 ---
 
-## ✍️ I Write About
+## I Write About
 
 - Kubernetes
 - Istio Service Mesh
