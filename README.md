@@ -1,45 +1,103 @@
-# Hi there👋 I'm Shashi
+# Hi, I'm Shashi 👋
 
-### I am an experienced Software Engineer with a passion for creating value in the form of functional, reliable and sustainable products.
+**Lead Member of Technical Staff @ athenahealth**
 
-I am interested in service mesh, microservice architecture, open source software, clean code, algorithms and data structures.
+I design and build cloud-native platforms powered by **Kubernetes** and **Istio**.
 
-#### Currently
-- Building Service Mesh solution.
-- Learning IaC, DevOps and Cloud Engineering.
-- Writing bunch of Terraform, Python and Node.js code. 
+Currently leading the engineering efforts of an enterprise **Istio Service Mesh** platform, taking it from Proof of Concept to production while driving adoption.
 
-#### My Stats
-<p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shweshi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweshi&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=html"/>
+---
+
+## 🚀 What I Do
+
+- ☸️ Platform Engineering
+- 🌐 Kubernetes & Istio Service Mesh
+- ⚙️ Distributed Systems
+- 🔀 Traffic Management
+- 🔐 Service-to-Service communication with Zero Trust Security
+- 📊 Observability
+- ☁️ Cloud Infrastructure
+- 🛠️ Developer Experience
+
+---
+
+## 💡 Current Focus
+
+- Building production-grade Istio Service Mesh platforms
+- Multi-cluster, Multi-primary & Multi-network Kubernetes
+- Traffic Management & Progressive Delivery
+- Platform Observability
+- AI-assisted Infrastructure Engineering
+- Open Source
+
+---
+
+## 🧰 Tech Stack
+
+### Platform
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shweshi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweshi&layout=compact&hide_border=true"/>
 </p>
 
-#### Connect With Me
-<p left="center">
-<a href="https://twitter.com/imSPG">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/shashiprakashgautam/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://medium.com/@shweshi">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:contactmespg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-<a href="https://blog.shashi.dev">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height=25>
-</a>
-</p>
+---
 
-#### Misc
-- [Portfolio](https://shashi.dev)
-- [Personal Manifesto](https://github.com/shweshi/manifesto/blob/main/README.md)
-- [Certificates](https://github.com/shweshi/certificates)
+## ✍️ I Write About
 
-#### Support
-I build open source projects in my free time. If you have used or liked my work, please consider buying me a coffee.
+- Kubernetes
+- Istio Service Mesh
+- Platform Engineering
+- Distributed Systems
+- AI-assisted Software Engineering
+- Developer Productivity
 
-<a href="https://www.buymeacoffee.com/shashi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="140"></a>
+📖 **Latest Articles**
+
+➡️ https://blog.shashi.dev
+
+---
+
+## 🌍 Find Me Around the Web
+
+🌐 Website: https://shashi.dev
+
+📝 Blog: https://blog.shashi.dev
+
+💼 LinkedIn: https://linkedin.com/in/shashiprakashgautam
+
+📧 contactmespg@gmail.com
+
+---
+
+## 🤝 Open Source
+
+I enjoy building developer tools, contributing to open source, and sharing what I learn through articles and technical documentation.
+
+If you've found any of my projects useful, feel free to ⭐ the repository or connect with me.
